@@ -20,4 +20,4 @@ This is a  conversion tool for AviUtl exo files between different language versi
 - [x] GUI
 - [x] Media object en-US index
 - [x] Media object jp index
-- [ ] Media object zh-CN index
+- [x] Media object zh-CN index
