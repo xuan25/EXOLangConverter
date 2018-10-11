@@ -1,20 +1,24 @@
-###EXOLangConverter
+# EXOLangConverter
 
 This is a  conversion tool for AviUtl exo files between different language version
 
-┌──EXO files Language Converter───── X─┐
+<pre>
 
-│ │日本語             │ -> │English             │            │
+┌───EXO files Language Converter──────── X ─┐
 
-│                                                                              │
+│ │日本語         │ -> │English        │     │
 
-│      Please drag in files to be converted         │
+│                                           │
 
-│                                                                              │
+│   Please drag in files to be converted    │
 
-└────────────────────────────┘
+│                                           │
 
-#### Plan list
+└───────────────────────────────────────────┘
+
+</pre>
+
+## Plan list
 
 - [x] Convert Core
 - [x] GUI
