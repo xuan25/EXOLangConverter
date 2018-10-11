@@ -75,483 +75,483 @@
         <replacement jp="blend" zh-CN="blend" en-US="blend"/>
 
         <!-- Camera control -->
-        <replacement jp="カメラ制御" zh-CN="" en-US="Camera control"/>
-        <replacement jp="目標X" zh-CN="" en-US="Target X"/>
-        <replacement jp="目標Y" zh-CN="" en-US="Target Y"/>
-        <replacement jp="目標Z" zh-CN="" en-US="Target Z"/>
-        <replacement jp="目標ﾚｲﾔ" zh-CN="" en-US="Target ly"/>
-        <replacement jp="傾き" zh-CN="" en-US="Slope"/>
-        <replacement jp="深度ぼけ" zh-CN="" en-US="Depth blur"/>
-        <replacement jp="視野角" zh-CN="" en-US="&lt;View"/>
-        <replacement jp="Zバッファ/シャドウマップを有効にする" zh-CN="" en-US="Enable Z-buffer / shadow map"/>
+        <replacement jp="カメラ制御" zh-CN="摄像机控制" en-US="Camera control"/>
+        <replacement jp="目標X" zh-CN="目标X" en-US="Target X"/>
+        <replacement jp="目標Y" zh-CN="目标Y" en-US="Target Y"/>
+        <replacement jp="目標Z" zh-CN="目标Z" en-US="Target Z"/>
+        <replacement jp="目標ﾚｲﾔ" zh-CN="目标层" en-US="Target ly"/>
+        <replacement jp="傾き" zh-CN="倾斜" en-US="Slope"/>
+        <replacement jp="深度ぼけ" zh-CN="深度模糊" en-US="Depth blur"/>
+        <replacement jp="視野角" zh-CN="视角" en-US="&lt;View"/>
+        <replacement jp="Zバッファ/シャドウマップを有効にする" zh-CN="启用Z缓存/绘制阴影" en-US="Enable Z-buffer / shadow map"/>
 
         <!-- Camera effect -->
-        <replacement jp="カメラ効果" zh-CN="" en-US="Camera effect"/>
+        <replacement jp="カメラ効果" zh-CN="摄像机效果" en-US="Camera effect"/>
 
         <!-- Shadow (camera control) -->
-        <replacement jp="シャドー(カメラ制御)" zh-CN="" en-US="Shadow (camera control)"/>
-        <replacement jp="光源X" zh-CN="" en-US="Light X"/>
-        <replacement jp="光源Y" zh-CN="" en-US="Light Y"/>
-        <replacement jp="光源Z" zh-CN="" en-US="Light Z"/>
-        <replacement jp="濃さ" zh-CN="" en-US="Thickness"/>
-        <replacement jp="精度" zh-CN="" en-US="Accuracy"/>
+        <replacement jp="シャドー(カメラ制御)" zh-CN="阴影(摄像机控制)" en-US="Shadow (camera control)"/>
+        <replacement jp="光源X" zh-CN="光源X" en-US="Light X"/>
+        <replacement jp="光源Y" zh-CN="光源Y" en-US="Light Y"/>
+        <replacement jp="光源Z" zh-CN="光源Z" en-US="Light Z"/>
+        <replacement jp="濃さ" zh-CN="浓度" en-US="Thickness"/>
+        <replacement jp="精度" zh-CN="精度" en-US="Accuracy"/>
 
         <!-- Script (camera control) -->
-        <replacement jp="スクリプト(カメラ制御)" zh-CN="" en-US="Script (camera control)"/>
+        <replacement jp="スクリプト(カメラ制御)" zh-CN="脚本(摄像机控制)" en-US="Script (camera control)"/>
 
         <!-- Color compensation -->
-        <replacement jp="色調補正" zh-CN="" en-US="Color compensation"/>
-        <replacement jp="明るさ" zh-CN="" en-US="Lightness"/>
-        <replacement jp="ｺﾝﾄﾗｽﾄ" zh-CN="" en-US="Contrast"/>
-        <replacement jp="色相" zh-CN="" en-US="Hue"/>
-        <replacement jp="輝度" zh-CN="" en-US="Luminance"/>
-        <replacement jp="彩度" zh-CN="" en-US="Chroma"/>
-        <replacement jp="飽和する" zh-CN="" en-US="Saturated"/>
+        <replacement jp="色調補正" zh-CN="色彩修正" en-US="Color compensation"/>
+        <replacement jp="明るさ" zh-CN="亮度" en-US="Lightness"/>
+        <replacement jp="ｺﾝﾄﾗｽﾄ" zh-CN="对比度" en-US="Contrast"/>
+        <replacement jp="色相" zh-CN="色相" en-US="Hue"/>
+        <replacement jp="輝度" zh-CN="发光度" en-US="Luminance"/>
+        <replacement jp="彩度" zh-CN="色度" en-US="Chroma"/>
+        <replacement jp="飽和する" zh-CN="饱和度" en-US="Saturated"/>
 
         <!-- Clipping -->
-        <replacement jp="クリッピング" zh-CN="" en-US="Clipping"/>
-        <replacement jp="上" zh-CN="" en-US="Top"/>
-        <replacement jp="下" zh-CN="" en-US="Bottom"/>
-        <replacement jp="左" zh-CN="" en-US="Left"/>
-        <replacement jp="右" zh-CN="" en-US="Right"/>
-        <replacement jp="中心の位置を変更" zh-CN="" en-US="Change the center position"/>
+        <replacement jp="クリッピング" zh-CN="裁剪遮罩" en-US="Clipping"/>
+        <replacement jp="上" zh-CN="上" en-US="Top"/>
+        <replacement jp="下" zh-CN="下" en-US="Bottom"/>
+        <replacement jp="左" zh-CN="左" en-US="Left"/>
+        <replacement jp="右" zh-CN="右" en-US="Right"/>
+        <replacement jp="中心の位置を変更" zh-CN="改变中心位置" en-US="Change the center position"/>
 
         <!-- Blur -->
-        <replacement jp="ぼかし" zh-CN="" en-US="Blur"/>
-        <replacement jp="範囲" zh-CN="" en-US="Range"/>
-        <replacement jp="縦横比" zh-CN="" en-US="rAspect"/>
-        <replacement jp="光の強さ" zh-CN="" en-US="Light Stre"/>
-        <replacement jp="サイズ固定" zh-CN="" en-US="Fixed Size"/>
+        <replacement jp="ぼかし" zh-CN="模糊" en-US="Blur"/>
+        <replacement jp="範囲" zh-CN="范围" en-US="Range"/>
+        <replacement jp="縦横比" zh-CN="横纵比" en-US="rAspect"/>
+        <replacement jp="光の強さ" zh-CN="光照强度" en-US="Light Stre"/>
+        <replacement jp="サイズ固定" zh-CN="固定大小" en-US="Fixed Size"/>
 
         <!-- Boundary blurring -->
-        <replacement jp="境界ぼかし" zh-CN="" en-US="Boundary blurring"/>
-        <replacement jp="範囲" zh-CN="" en-US="Range"/>
-        <replacement jp="縦横比" zh-CN="" en-US="rAspect"/>
-        <replacement jp="透明度の境界をぼかす" zh-CN="" en-US="Boundary blur of transparency"/>
+        <replacement jp="境界ぼかし" zh-CN="边缘模糊" en-US="Boundary blurring"/>
+        <replacement jp="範囲" zh-CN="范围" en-US="Range"/>
+        <replacement jp="縦横比" zh-CN="横纵比" en-US="rAspect"/>
+        <replacement jp="透明度の境界をぼかす" zh-CN="边缘模糊透明度" en-US="Boundary blur of transparency"/>
 
         <!-- Mosaic -->
-        <replacement jp="モザイク" zh-CN="" en-US="Mosaic"/>
-        <replacement jp="サイズ" zh-CN="" en-US="Size"/>
-        <replacement jp="タイル風" zh-CN="" en-US="Tile style"/>
+        <replacement jp="モザイク" zh-CN="马赛克" en-US="Mosaic"/>
+        <replacement jp="サイズ" zh-CN="大小" en-US="Size"/>
+        <replacement jp="タイル風" zh-CN="瓷砖风格" en-US="Tile style"/>
 
         <!-- Emission -->
-        <replacement jp="発光" zh-CN="" en-US="Emission"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="拡散" zh-CN="" en-US="Diffusion"/>
-        <replacement jp="しきい値" zh-CN="" en-US="Threshold"/>
-        <replacement jp="拡散速度" zh-CN="" en-US="vDiffuse"/>
-        <replacement jp="サイズ固定" zh-CN="" en-US="Fixed Size"/>
+        <replacement jp="発光" zh-CN="放射光" en-US="Emission"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="拡散" zh-CN="扩散度" en-US="Diffusion"/>
+        <replacement jp="しきい値" zh-CN="阈值" en-US="Threshold"/>
+        <replacement jp="拡散速度" zh-CN="扩散速度" en-US="vDiffuse"/>
+        <replacement jp="サイズ固定" zh-CN="固定大小" en-US="Fixed Size"/>
 
         <!-- Flash -->
-        <replacement jp="閃光" zh-CN="" en-US="Flash"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="サイズ固定" zh-CN="" en-US="Fixed Size"/>
+        <replacement jp="閃光" zh-CN="闪光" en-US="Flash"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="サイズ固定" zh-CN="固定大小" en-US="Fixed Size"/>
 
         <!-- Diffusion light -->
-        <replacement jp="拡散光" zh-CN="" en-US="Diffusion light"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="拡散" zh-CN="" en-US="Diffusion"/>
-        <replacement jp="サイズ固定" zh-CN="" en-US="Fixed Size"/>
+        <replacement jp="拡散光" zh-CN="发散光 " en-US="Diffusion light"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="拡散" zh-CN="扩散度" en-US="Diffusion"/>
+        <replacement jp="サイズ固定" zh-CN="固定大小" en-US="Fixed Size"/>
 
         <!-- Glow -->
-        <replacement jp="グロー" zh-CN="" en-US="Glow"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="拡散" zh-CN="" en-US="Diffusion"/>
-        <replacement jp="しきい値" zh-CN="" en-US="Threshold"/>
-        <replacement jp="ぼかし" zh-CN="" en-US="Blur"/>
-        <replacement jp="光成分のみ" zh-CN="" en-US="Light only"/>
+        <replacement jp="グロー" zh-CN="发光" en-US="Glow"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="拡散" zh-CN="扩散度" en-US="Diffusion"/>
+        <replacement jp="しきい値" zh-CN="阈值" en-US="Threshold"/>
+        <replacement jp="ぼかし" zh-CN="模糊" en-US="Blur"/>
+        <replacement jp="光成分のみ" zh-CN="仅渲染发光部分" en-US="Light only"/>
 
         <!-- Chroma Key -->
-        <replacement jp="クロマキー" zh-CN="" en-US="Chroma Key"/>
-        <replacement jp="色相範囲" zh-CN="" en-US="~Hue"/>
-        <replacement jp="彩度範囲" zh-CN="" en-US="~Chroma"/>
-        <replacement jp="境界補正" zh-CN="" en-US="dEdge"/>
-        <replacement jp="色彩補正" zh-CN="" en-US="Chromatic correction"/>
-        <replacement jp="透過補正" zh-CN="" en-US="Transmission correction"/>
+        <replacement jp="クロマキー" zh-CN="色度键" en-US="Chroma Key"/>
+        <replacement jp="色相範囲" zh-CN="色相范围" en-US="~Hue"/>
+        <replacement jp="彩度範囲" zh-CN="色度范围" en-US="~Chroma"/>
+        <replacement jp="境界補正" zh-CN="边缘修正" en-US="dEdge"/>
+        <replacement jp="色彩補正" zh-CN="色彩修正" en-US="Chromatic correction"/>
+        <replacement jp="透過補正" zh-CN="透明修正" en-US="Transmission correction"/>
 
         <!-- Color Key -->
-        <replacement jp="カラーキー" zh-CN="" en-US="Color Key"/>
-        <replacement jp="輝度範囲" zh-CN="" en-US="~Luminance"/>
-        <replacement jp="色差範囲" zh-CN="" en-US="~DColor"/>
-        <replacement jp="境界補正" zh-CN="" en-US="dEdge"/>
+        <replacement jp="カラーキー" zh-CN="色键" en-US="Color Key"/>
+        <replacement jp="輝度範囲" zh-CN="亮度范围" en-US="~Luminance"/>
+        <replacement jp="色差範囲" zh-CN="色差范围" en-US="~DColor"/>
+        <replacement jp="境界補正" zh-CN="边缘修正" en-US="dEdge"/>
 
         <!-- Luminance Key -->
-        <replacement jp="ルミナンスキー" zh-CN="" en-US="Luminance Key"/>
-        <replacement jp="基準輝度" zh-CN="" en-US="RefLuminance"/>
-        <replacement jp="ぼかし" zh-CN="" en-US="Blur"/>
+        <replacement jp="ルミナンスキー" zh-CN="亮度键" en-US="Luminance Key"/>
+        <replacement jp="基準輝度" zh-CN="标准亮度" en-US="RefLuminance"/>
+        <replacement jp="ぼかし" zh-CN="模糊" en-US="Blur"/>
 
         <!-- Light -->
-        <replacement jp="ライト" zh-CN="" en-US="Light"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="拡散" zh-CN="" en-US="Diffusion"/>
-        <replacement jp="比率" zh-CN="" en-US="Ratio"/>
-        <replacement jp="逆光" zh-CN="" en-US="Backlight"/>
+        <replacement jp="ライト" zh-CN="光源" en-US="Light"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="拡散" zh-CN="扩散度" en-US="Diffusion"/>
+        <replacement jp="比率" zh-CN="比率" en-US="Ratio"/>
+        <replacement jp="逆光" zh-CN="逆光" en-US="Backlight"/>
 
         <!-- Shadow -->
-        <replacement jp="シャドー" zh-CN="" en-US="Shadow"/>
-        <replacement jp="濃さ" zh-CN="" en-US="Thickness"/>
-        <replacement jp="拡散" zh-CN="" en-US="Diffusion"/>
-        <replacement jp="影を別オブジェクトで描画" zh-CN="" en-US="Draw shadow as separate object"/>
+        <replacement jp="シャドー" zh-CN="阴影" en-US="Shadow"/>
+        <replacement jp="濃さ" zh-CN="浓度" en-US="Thickness"/>
+        <replacement jp="拡散" zh-CN="扩散度" en-US="Diffusion"/>
+        <replacement jp="影を別オブジェクトで描画" zh-CN="用另一个物件渲染阴影" en-US="Draw shadow as separate object"/>
+      
         <!-- Add border -->
-        <replacement jp="縁取り" zh-CN="" en-US="Add border"/>
-        <replacement jp="サイズ" zh-CN="" en-US="Size"/>
-        <replacement jp="ぼかし" zh-CN="" en-US="Blur"/>
+        <replacement jp="縁取り" zh-CN="描边" en-US="Add border"/>
+        <replacement jp="サイズ" zh-CN="大小" en-US="Size"/>
+        <replacement jp="ぼかし" zh-CN="模糊" en-US="Blur"/>
+      
         <!-- Bevel -->
-        <replacement jp="凸エッジ" zh-CN="" en-US="Bevel"/>
-        <replacement jp="幅" zh-CN="" en-US="Width"/>
-        <replacement jp="高さ" zh-CN="" en-US="Height"/>
-        <replacement jp="角度" zh-CN="" en-US="Angle"/>
+        <replacement jp="凸エッジ" zh-CN="边缘斜面" en-US="Bevel"/>
+        <replacement jp="幅" zh-CN="宽" en-US="Width"/>
+        <replacement jp="高さ" zh-CN="高度" en-US="Height"/>
+        <replacement jp="角度" zh-CN="角度" en-US="Angle"/>
 
         <!-- Edge extraction -->
-        <replacement jp="エッジ抽出" zh-CN="" en-US="Edge extraction"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="しきい値" zh-CN="" en-US="Threshold"/>
-        <replacement jp="輝度エッジを抽出" zh-CN="" en-US="Extract luminance edge"/>
-        <replacement jp="透明度エッジを抽出" zh-CN="" en-US="Extract transparency edge"/>
+        <replacement jp="エッジ抽出" zh-CN="提取边缘" en-US="Edge extraction"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="しきい値" zh-CN="阈值" en-US="Threshold"/>
+        <replacement jp="輝度エッジを抽出" zh-CN="提取亮度边缘" en-US="Extract luminance edge"/>
+        <replacement jp="透明度エッジを抽出" zh-CN="提取透明度边缘" en-US="Extract transparency edge"/>
 
         <!-- Sharpen -->
-        <replacement jp="シャープ" zh-CN="" en-US="Sharpen"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="範囲" zh-CN="" en-US="Range"/>
+        <replacement jp="シャープ" zh-CN="锐度" en-US="Sharpen"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="範囲" zh-CN="范围" en-US="Range"/>
 
         <!-- Fade -->
-        <replacement jp="フェード" zh-CN="" en-US="Fade"/>
-        <replacement jp="イン" zh-CN="" en-US="In"/>
-        <replacement jp="アウト" zh-CN="" en-US="Out"/>
+        <replacement jp="フェード" zh-CN="淡化" en-US="Fade"/>
+        <replacement jp="イン" zh-CN="IN" en-US="In"/>
+        <replacement jp="アウト" zh-CN="OUT" en-US="Out"/>
 
         <!-- Wipe -->
-        <replacement jp="ワイプ" zh-CN="" en-US="Wipe"/>
-        <replacement jp="イン" zh-CN="" en-US="In"/>
-        <replacement jp="アウト" zh-CN="" en-US="Out"/>
-        <replacement jp="ぼかし" zh-CN="" en-US="Blur"/>
-        <replacement jp="反転(イン)" zh-CN="" en-US="Flip (in)"/>
-        <replacement jp="反転(アウト)" zh-CN="" en-US="Flip (out)"/>
+        <replacement jp="ワイプ" zh-CN="擦除" en-US="Wipe"/>
+        <replacement jp="イン" zh-CN="IN" en-US="In"/>
+        <replacement jp="アウト" zh-CN="OUT" en-US="Out"/>
+        <replacement jp="ぼかし" zh-CN="模糊" en-US="Blur"/>
+        <replacement jp="反転(イン)" zh-CN="反转(进场)" en-US="Flip (in)"/>
+        <replacement jp="反転(アウト)" zh-CN="反转(出场)" en-US="Flip (out)"/>
 
         <!-- Mask -->
-        <replacement jp="マスク" zh-CN="" en-US="Mask"/>
-        <!-- <replacement jp="" zh-CN="" en-US="X"/> -->
-        <!-- <replacement jp="" zh-CN="" en-US="Y"/> -->
-        <replacement jp="回転" zh-CN="" en-US="Rotation"/>
-        <replacement jp="サイズ" zh-CN="" en-US="Size"/>
-        <replacement jp="縦横比" zh-CN="" en-US="rAspect"/>
-        <replacement jp="ぼかし" zh-CN="" en-US="Blur"/>
-        <replacement jp="マスクの反転" zh-CN="" en-US="Invert mask"/>
-        <replacement jp="元のサイズに合わせる" zh-CN="" en-US="Match with original size"/>
+        <replacement jp="マスク" zh-CN="遮罩" en-US="Mask"/>
+        <replacement jp="回転" zh-CN="旋转" en-US="Rotation"/>
+        <replacement jp="サイズ" zh-CN="大小" en-US="Size"/>
+        <replacement jp="縦横比" zh-CN="横纵比" en-US="rAspect"/>
+        <replacement jp="ぼかし" zh-CN="模糊" en-US="Blur"/>
+        <replacement jp="マスクの反転" zh-CN="遮罩反转" en-US="Invert mask"/>
+        <replacement jp="元のサイズに合わせる" zh-CN="适合原始大小" en-US="Match with original size"/>
 
         <!-- Diagonal clipping -->
-        <replacement jp="斜めクリッピング" zh-CN="" en-US="Diagonal clipping"/>
-        <replacement jp="中心X" zh-CN="" en-US="Center X"/>
-        <replacement jp="中心Y" zh-CN="" en-US="Center Y"/>
-        <replacement jp="角度" zh-CN="" en-US="Angle"/>
-        <replacement jp="ぼかし" zh-CN="" en-US="Blur"/>
-        <replacement jp="幅" zh-CN="" en-US="Width"/>
+        <replacement jp="斜めクリッピング" zh-CN="斜向裁剪" en-US="Diagonal clipping"/>
+        <replacement jp="中心X" zh-CN="中心X" en-US="Center X"/>
+        <replacement jp="中心Y" zh-CN="中心Y" en-US="Center Y"/>
+        <replacement jp="角度" zh-CN="角度" en-US="Angle"/>
+        <replacement jp="ぼかし" zh-CN="模糊" en-US="Blur"/>
+        <replacement jp="幅" zh-CN="宽" en-US="Width"/>
 
         <!-- Radial Blur -->
-        <replacement jp="放射ブラー" zh-CN="" en-US="Radial Blur"/>
-        <replacement jp="範囲" zh-CN="" en-US="Range"/>
-        <replacement jp="サイズ固定" zh-CN="" en-US="Fixed Size"/>
+        <replacement jp="放射ブラー" zh-CN="放射模糊" en-US="Radial Blur"/>
+        <replacement jp="範囲" zh-CN="范围" en-US="Range"/>
+        <replacement jp="サイズ固定" zh-CN="固定大小" en-US="Fixed Size"/>
 
         <!-- Direction blur -->
-        <replacement jp="方向ブラー" zh-CN="" en-US="Direction blur"/>
-        <replacement jp="範囲" zh-CN="" en-US="Range"/>
-        <replacement jp="角度" zh-CN="" en-US="Angle"/>
-        <replacement jp="サイズ固定" zh-CN="" en-US="Fixed Size"/>
+        <replacement jp="方向ブラー" zh-CN="方向模糊" en-US="Direction blur"/>
+        <replacement jp="範囲" zh-CN="范围" en-US="Range"/>
+        <replacement jp="角度" zh-CN="角度" en-US="Angle"/>
+        <replacement jp="サイズ固定" zh-CN="固定大小" en-US="Fixed Size"/>
 
         <!-- Lens blur -->
-        <replacement jp="レンズブラー" zh-CN="" en-US="Lens blur"/>
-        <replacement jp="範囲" zh-CN="" en-US="Range"/>
-        <replacement jp="光の強さ" zh-CN="" en-US="Light Stre"/>
-        <replacement jp="サイズ固定" zh-CN="" en-US="Fixed Size"/>
+        <replacement jp="レンズブラー" zh-CN="镜头模糊" en-US="Lens blur"/>
+        <replacement jp="範囲" zh-CN="范围" en-US="Range"/>
+        <replacement jp="光の強さ" zh-CN="光照强度" en-US="Light Stre"/>
+        <replacement jp="サイズ固定" zh-CN="固定大小" en-US="Fixed Size"/>
 
         <!-- Motion blur -->
-        <replacement jp="モーションブラー" zh-CN="" en-US="Motion blur"/>
-        <replacement jp="間隔" zh-CN="" en-US="Interval"/>
-        <replacement jp="分解能" zh-CN="" en-US="Resolution"/>
-        <replacement jp="残像" zh-CN="" en-US="Afterimage"/>
-        <replacement jp="オフスクリーン描画" zh-CN="" en-US="Off-screen drawing"/>
-        <replacement jp="出力時に分解能を上げる" zh-CN="" en-US="Increase resolution during export"/>
+        <replacement jp="モーションブラー" zh-CN="运动模糊" en-US="Motion blur"/>
+        <replacement jp="間隔" zh-CN="间隔" en-US="Interval"/>
+        <replacement jp="分解能" zh-CN="分辨率" en-US="Resolution"/>
+        <replacement jp="残像" zh-CN="残影" en-US="Afterimage"/>
+        <replacement jp="オフスクリーン描画" zh-CN="离屏渲染" en-US="Off-screen drawing"/>
+        <replacement jp="出力時に分解能を上げる" zh-CN="导出时提高分辨率" en-US="Increase resolution during export"/>
 
         <!-- Coordinate -->
-        <replacement jp="座標" zh-CN="" en-US="Coordinate"/>
+        <replacement jp="座標" zh-CN="坐标" en-US="Coordinate"/>
 
         <!-- Zoom% -->
-        <replacement jp="拡大率" zh-CN="" en-US="Zoom%"/>
+        <replacement jp="拡大率" zh-CN="缩放率" en-US="Zoom%"/>
 
         <!-- Clearness -->
-        <replacement jp="透明度" zh-CN="" en-US="Clearness"/>
+        <replacement jp="透明度" zh-CN="透明度" en-US="Clearness"/>
 
         <!-- Rotation -->
-        <replacement jp="回転" zh-CN="" en-US="Rotation"/>
+        <replacement jp="回転" zh-CN="旋转" en-US="Rotation"/>
 
         <!-- Region expansion -->
-        <replacement jp="領域拡張" zh-CN="" en-US="Region expansion"/>
-        <replacement jp="上" zh-CN="" en-US="Top"/>
-        <replacement jp="下" zh-CN="" en-US="Bottom"/>
-        <replacement jp="左" zh-CN="" en-US="Left"/>
-        <replacement jp="右" zh-CN="" en-US="Right"/>
-        <replacement jp="塗りつぶし" zh-CN="" en-US="Fill"/>
+        <replacement jp="領域拡張" zh-CN="区域扩展" en-US="Region expansion"/>
+        <replacement jp="上" zh-CN="上" en-US="Top"/>
+        <replacement jp="下" zh-CN="下" en-US="Bottom"/>
+        <replacement jp="左" zh-CN="左" en-US="Left"/>
+        <replacement jp="右" zh-CN="右" en-US="Right"/>
+        <replacement jp="塗りつぶし" zh-CN="填充" en-US="Fill"/>
 
         <!-- Resize -->
-        <replacement jp="リサイズ" zh-CN="" en-US="Resize"/>
-        <replacement jp="拡大率" zh-CN="" en-US="Zoom%"/>
-        <replacement jp="補間なし" zh-CN="" en-US="No interpolation"/>
-        <replacement jp="ドット数でサイズ指定" zh-CN="" en-US="Specified size by the number of dots"/>
+        <replacement jp="リサイズ" zh-CN="尺寸调整" en-US="Resize"/>
+        <replacement jp="拡大率" zh-CN="缩放率" en-US="Zoom%"/>
+        <replacement jp="補間なし" zh-CN="没有插值" en-US="No interpolation"/>
+        <replacement jp="ドット数でサイズ指定" zh-CN="用浮点数指定尺寸" en-US="Specified size by the number of dots"/>
 
         <!-- Locked Rotation -->
-        <replacement jp="ローテーション" zh-CN="" en-US="Locked Rotation"/>
-        <replacement jp="90度回転" zh-CN="" en-US="90 degree rotation"/>
+        <replacement jp="ローテーション" zh-CN="直角旋转" en-US="Locked Rotation"/>
+        <replacement jp="90度回転" zh-CN="90度旋转" en-US="90 degree rotation"/>
 
         <!-- Reversal -->
-        <replacement jp="反転" zh-CN="" en-US="Reversal"/>
-        <replacement jp="上下反転" zh-CN="" en-US="Flip vertical"/>
-        <replacement jp="左右反転" zh-CN="" en-US="Flip horizontal"/>
-        <replacement jp="輝度反転" zh-CN="" en-US="Invert luminance"/>
-        <replacement jp="色相反転" zh-CN="" en-US="Hue inversion"/>
-        <replacement jp="透明度反転" zh-CN="" en-US="Transparency inversion"/>
+        <replacement jp="反転" zh-CN="反转" en-US="Reversal"/>
+        <replacement jp="上下反転" zh-CN="上下翻转" en-US="Flip vertical"/>
+        <replacement jp="左右反転" zh-CN="左右翻转" en-US="Flip horizontal"/>
+        <replacement jp="輝度反転" zh-CN="亮度反转" en-US="Invert luminance"/>
+        <replacement jp="色相反転" zh-CN="色相反转" en-US="Hue inversion"/>
+        <replacement jp="透明度反転" zh-CN="透明度反转" en-US="Transparency inversion"/>
 
         <!-- Vibration -->
-        <replacement jp="振動" zh-CN="" en-US="Vibration"/>
-        <replacement jp="周期" zh-CN="" en-US="Period"/>
-        <replacement jp="ランダムに強さを変える" zh-CN="" en-US="Change the strength at random"/>
-        <replacement jp="複雑に振動" zh-CN="" en-US="Complex vibration"/>
+        <replacement jp="振動" zh-CN="震动" en-US="Vibration"/>
+        <replacement jp="周期" zh-CN="周期" en-US="Period"/>
+        <replacement jp="ランダムに強さを変える" zh-CN="随机改变强度" en-US="Change the strength at random"/>
+        <replacement jp="複雑に振動" zh-CN="复杂振动" en-US="Complex vibration"/>
 
         <!-- Mirror -->
-        <replacement jp="ミラー" zh-CN="" en-US="Mirror"/>
-        <replacement jp="透明度" zh-CN="" en-US="Clearness"/>
-        <replacement jp="減衰" zh-CN="" en-US="Attenuate"/>
-        <replacement jp="境目調整" zh-CN="" en-US="dEdge"/>
-        <replacement jp="中心の位置を変更" zh-CN="" en-US="Change the center position"/>
+        <replacement jp="ミラー" zh-CN="镜像" en-US="Mirror"/>
+        <replacement jp="透明度" zh-CN="透明度" en-US="Clearness"/>
+        <replacement jp="減衰" zh-CN="衰减" en-US="Attenuate"/>
+        <replacement jp="境目調整" zh-CN="调整镜面" en-US="dEdge"/>
+        <replacement jp="中心の位置を変更" zh-CN="改变中心位置" en-US="Change the center position"/>
 
         <!-- Raster -->
-        <replacement jp="ラスター" zh-CN="" en-US="Raster"/>
-        <replacement jp="横幅" zh-CN="" en-US="Width"/>
-        <replacement jp="高さ" zh-CN="" en-US="Height"/>
-        <replacement jp="周期" zh-CN="" en-US="Period"/>
-        <replacement jp="縦ラスター" zh-CN="" en-US="Vertical raster"/>
-        <replacement jp="ランダム振幅" zh-CN="" en-US="Random amplitude"/>
+        <replacement jp="ラスター" zh-CN="光栅" en-US="Raster"/>
+        <replacement jp="横幅" zh-CN="宽度" en-US="Width"/>
+        <replacement jp="高さ" zh-CN="高度" en-US="Height"/>
+        <replacement jp="周期" zh-CN="周期" en-US="Period"/>
+        <replacement jp="縦ラスター" zh-CN="垂直光栅" en-US="Vertical raster"/>
+        <replacement jp="ランダム振幅" zh-CN="随机振幅" en-US="Random amplitude"/>
 
         <!-- Ripple -->
-        <replacement jp="波紋" zh-CN="" en-US="Ripple"/>
-        <replacement jp="中心X" zh-CN="" en-US="Center X"/>
-        <replacement jp="中心Y" zh-CN="" en-US="Center Y"/>
-        <replacement jp="幅" zh-CN="" en-US="Width"/>
-        <replacement jp="高さ" zh-CN="" en-US="Height"/>
-        <replacement jp="速度" zh-CN="" en-US="Speed"/>
+        <replacement jp="波紋" zh-CN="波纹" en-US="Ripple"/>
+        <replacement jp="中心X" zh-CN="中心X" en-US="Center X"/>
+        <replacement jp="中心Y" zh-CN="中心Y" en-US="Center Y"/>
+        <replacement jp="幅" zh-CN="宽" en-US="Width"/>
+        <replacement jp="高さ" zh-CN="高度" en-US="Height"/>
+        <replacement jp="速度" zh-CN="速度" en-US="Speed"/>
 
         <!-- Image tiling -->
-        <replacement jp="画像ループ" zh-CN="" en-US="Image tiling"/>
-        <replacement jp="横回数" zh-CN="" en-US="Hx#"/>
-        <replacement jp="縦回数" zh-CN="" en-US="Vy#"/>
-        <replacement jp="速度X" zh-CN="" en-US="Speed X"/>
-        <replacement jp="速度Y" zh-CN="" en-US="Speed Y"/>
-        <replacement jp="個別オブジェクト" zh-CN="" en-US="Individual objects"/>
+        <replacement jp="画像ループ" zh-CN="图像拼贴" en-US="Image tiling"/>
+        <replacement jp="横回数" zh-CN="横向数量" en-US="Hx#"/>
+        <replacement jp="縦回数" zh-CN="纵向数量" en-US="Vy#"/>
+        <replacement jp="速度X" zh-CN="速度X" en-US="Speed X"/>
+        <replacement jp="速度Y" zh-CN="速度Y" en-US="Speed Y"/>
+        <replacement jp="個別オブジェクト" zh-CN="物件独立" en-US="Individual objects"/>
 
         <!-- Polar coordinate conversion -->
-        <replacement jp="極座標変換" zh-CN="" en-US="Polar coordinate conversion"/>
-        <replacement jp="中心幅" zh-CN="" en-US="Center width"/>
-        <replacement jp="拡大率" zh-CN="" en-US="Zoom%"/>
-        <replacement jp="回転" zh-CN="" en-US="Rotation"/>
-        <replacement jp="渦巻" zh-CN="" en-US="Whirlpool"/>
+        <replacement jp="極座標変換" zh-CN="极坐标变换" en-US="Polar coordinate conversion"/>
+        <replacement jp="中心幅" zh-CN="中心点" en-US="Center width"/>
+        <replacement jp="拡大率" zh-CN="缩放率" en-US="Zoom%"/>
+        <replacement jp="回転" zh-CN="旋转" en-US="Rotation"/>
+        <replacement jp="渦巻" zh-CN="螺旋" en-US="Whirlpool"/>
 
         <!-- Displacement map -->
-        <replacement jp="ディスプレイスメントマップ" zh-CN="" en-US="Displacement map"/>
-        <replacement jp="回転" zh-CN="" en-US="Rotation"/>
-        <replacement jp="サイズ" zh-CN="" en-US="Size"/>
-        <replacement jp="縦横比" zh-CN="" en-US="rAspect"/>
-        <replacement jp="ぼかし" zh-CN="" en-US="Blur"/>
-        <replacement jp="元のサイズに合わせる" zh-CN="" en-US="Match with original size"/>
+        <replacement jp="ディスプレイスメントマップ" zh-CN="置换映射" en-US="Displacement map"/>
+        <replacement jp="回転" zh-CN="旋转" en-US="Rotation"/>
+        <replacement jp="サイズ" zh-CN="大小" en-US="Size"/>
+        <replacement jp="縦横比" zh-CN="横纵比" en-US="rAspect"/>
+        <replacement jp="ぼかし" zh-CN="模糊" en-US="Blur"/>
+        <replacement jp="元のサイズに合わせる" zh-CN="适合原始大小" en-US="Match with original size"/>
 
         <!-- Noise -->
-        <replacement jp="ノイズ" zh-CN="" en-US="Noise"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="速度X" zh-CN="" en-US="Speed X"/>
-        <replacement jp="速度Y" zh-CN="" en-US="Speed Y"/>
-        <replacement jp="変化速度" zh-CN="" en-US="dy/dx"/>
-        <replacement jp="周期X" zh-CN="" en-US="Cycle X"/>
-        <replacement jp="周期Y" zh-CN="" en-US="Cycle Y"/>
-        <replacement jp="しきい値" zh-CN="" en-US="Threshold"/>
+        <replacement jp="ノイズ" zh-CN="噪波" en-US="Noise"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="速度X" zh-CN="速度X" en-US="Speed X"/>
+        <replacement jp="速度Y" zh-CN="速度Y" en-US="Speed Y"/>
+        <replacement jp="変化速度" zh-CN="变化速度" en-US="dy/dx"/>
+        <replacement jp="周期X" zh-CN="周期X" en-US="Cycle X"/>
+        <replacement jp="周期Y" zh-CN="周期Y" en-US="Cycle Y"/>
+        <replacement jp="しきい値" zh-CN="阈值" en-US="Threshold"/>
 
         <!-- Color shift -->
-        <replacement jp="色ずれ" zh-CN="" en-US="Color shift"/>
-        <replacement jp="ずれ幅" zh-CN="" en-US="Gap width"/>
-        <replacement jp="角度" zh-CN="" en-US="Angle"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
+        <replacement jp="色ずれ" zh-CN="色彩偏移" en-US="Color shift"/>
+        <replacement jp="ずれ幅" zh-CN="偏移度" en-US="Gap width"/>
+        <replacement jp="角度" zh-CN="角度" en-US="Angle"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
 
         <!-- Monochromatic -->
-        <replacement jp="単色化" zh-CN="" en-US="Monochromatic"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="輝度を保持する" zh-CN="" en-US="Keep luminance"/>
+        <replacement jp="単色化" zh-CN="单色化" en-US="Monochromatic"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="輝度を保持する" zh-CN="亮度保持" en-US="Keep luminance"/>
 
         <!-- Gradient -->
-        <replacement jp="グラデーション" zh-CN="" en-US="Gradient"/>
-        <replacement jp="強さ" zh-CN="" en-US="Strength"/>
-        <replacement jp="中心X" zh-CN="" en-US="Center X"/>
-        <replacement jp="中心Y" zh-CN="" en-US="Center Y"/>
-        <replacement jp="角度" zh-CN="" en-US="Angle"/>
-        <replacement jp="幅" zh-CN="" en-US="Width"/>
+        <replacement jp="グラデーション" zh-CN="渐变" en-US="Gradient"/>
+        <replacement jp="強さ" zh-CN="强度" en-US="Strength"/>
+        <replacement jp="中心X" zh-CN="中心X" en-US="Center X"/>
+        <replacement jp="中心Y" zh-CN="中心Y" en-US="Center Y"/>
+        <replacement jp="角度" zh-CN="角度" en-US="Angle"/>
+        <replacement jp="幅" zh-CN="宽" en-US="Width"/>
 
         <!-- Extended color setting -->
-        <replacement jp="拡張色設定" zh-CN="" en-US="Extended color setting"/>
-        <replacement jp="RGB⇔HSV" zh-CN="" en-US="RGB佁HSV"/>
+        <replacement jp="拡張色設定" zh-CN="高级颜色设置" en-US="Extended color setting"/>
+        <replacement jp="RGB⇔HSV" zh-CN="RGB/HSV" en-US="RGB佁HSV"/>
 
         <!-- Specific color gamut conversion -->
-        <replacement jp="特定色域変換" zh-CN="" en-US="Specific color gamut conversion"/>
-        <replacement jp="色相範囲" zh-CN="" en-US="~Hue"/>
-        <replacement jp="彩度範囲" zh-CN="" en-US="~Chroma"/>
-        <replacement jp="境界補正" zh-CN="" en-US="dEdge"/>
+        <replacement jp="特定色域変換" zh-CN="特定色域转换" en-US="Specific color gamut conversion"/>
+        <replacement jp="色相範囲" zh-CN="色相范围" en-US="~Hue"/>
+        <replacement jp="彩度範囲" zh-CN="色度范围" en-US="~Chroma"/>
+        <replacement jp="境界補正" zh-CN="边缘修正" en-US="dEdge"/>
 
         <!-- Animation effect -->
-        <replacement jp="アニメーション効果" zh-CN="" en-US="Animation effect"/>
+        <replacement jp="アニメーション効果" zh-CN="动画效果" en-US="Animation effect"/>
 
         <!-- Script control -->
-        <replacement jp="スクリプト制御" zh-CN="" en-US="Script control"/>
+        <replacement jp="スクリプト制御" zh-CN="脚本控制" en-US="Script control"/>
 
         <!-- Video files synthesis -->
-        <replacement jp="動画ファイル合成" zh-CN="" en-US="Video files synthesis"/>
-        <replacement jp="再生位置" zh-CN="" en-US="Playback position"/>
-        <replacement jp="再生速度" zh-CN="" en-US="vPlay"/>
-        <replacement jp="拡大率" zh-CN="" en-US="Zoom%"/>
-        <replacement jp="ループ再生" zh-CN="" en-US="Loop playback"/>
-        <replacement jp="動画ファイルの同期" zh-CN="" en-US="Synchronize with video files"/>
-        <replacement jp="ループ画像" zh-CN="" en-US="Loop image"/>
+        <replacement jp="動画ファイル合成" zh-CN="合成视频文件" en-US="Video files synthesis"/>
+        <replacement jp="再生位置" zh-CN="播放范围" en-US="Playback position"/>
+        <replacement jp="再生速度" zh-CN="播放速度" en-US="vPlay"/>
+        <replacement jp="拡大率" zh-CN="缩放率" en-US="Zoom%"/>
+        <replacement jp="ループ再生" zh-CN="循环播放" en-US="Loop playback"/>
+        <replacement jp="動画ファイルの同期" zh-CN="同步视频文件" en-US="Synchronize with video files"/>
+        <replacement jp="ループ画像" zh-CN="循环图片" en-US="Loop image"/>
 
         <!-- Synthesis image file -->
-        <replacement jp="画像ファイル合成" zh-CN="" en-US="Synthesis image file"/>
-        <replacement jp="拡大率" zh-CN="" en-US="Zoom%"/>
-        <replacement jp="ループ画像" zh-CN="" en-US="Loop image"/>
+        <replacement jp="画像ファイル合成" zh-CN="合成图片文件" en-US="Synthesis image file"/>
+        <replacement jp="拡大率" zh-CN="缩放率" en-US="Zoom%"/>
+        <replacement jp="ループ画像" zh-CN="循环图片" en-US="Loop image"/>
 
         <!-- De-interlacing -->
-        <replacement jp="インターレース解除" zh-CN="" en-US="De-interlacing"/>
+        <replacement jp="インターレース解除" zh-CN="反交错" en-US="De-interlacing"/>
 
         <!-- Camera control options -->
-        <replacement jp="カメラ制御オプション" zh-CN="" en-US="Camera control options"/>
-        <replacement jp="カメラの方を向く" zh-CN="" en-US="Face the camera"/>
-        <replacement jp="カメラの方を向く(縦横方向のみ)" zh-CN="" en-US="Face the camera (Hx and Vy only)"/>
-        <replacement jp="カメラの方を向く(横方向のみ)" zh-CN="" en-US="Face the camera (Hx only)"/>
-        <replacement jp="シャドーの対象から外す" zh-CN="" en-US="Exclude from shadow"/>
+        <replacement jp="カメラ制御オプション" zh-CN="摄像机控制选项" en-US="Camera control options"/>
+        <replacement jp="カメラの方を向く" zh-CN="摄像机方位" en-US="Face the camera"/>
+        <replacement jp="カメラの方を向く(縦横方向のみ)" zh-CN="摄像机方位(垂直水平方向)" en-US="Face the camera (Hx and Vy only)"/>
+        <replacement jp="カメラの方を向く(横方向のみ)" zh-CN="摄像机方位(水平方向)" en-US="Face the camera (Hx only)"/>
+        <replacement jp="シャドーの対象から外す" zh-CN="从目标中移除阴影" en-US="Exclude from shadow"/>
 
         <!-- Off-screen drawing -->
-        <replacement jp="オフスクリーン描画" zh-CN="" en-US="Off-screen drawing"/>
+        <replacement jp="オフスクリーン描画" zh-CN="离屏渲染" en-US="Off-screen drawing"/>
 
         <!-- Object split -->
-        <replacement jp="オブジェクト分割" zh-CN="" en-US="Object split"/>
-        <replacement jp="横分割数" zh-CN="" en-US="Hy div#"/>
-        <replacement jp="縦分割数" zh-CN="" en-US="Vx div#"/>
+        <replacement jp="オブジェクト分割" zh-CN="物件分割" en-US="Object split"/>
+        <replacement jp="横分割数" zh-CN="横分割数" en-US="Hy div#"/>
+        <replacement jp="縦分割数" zh-CN="纵分割数" en-US="Vx div#"/>
 
         <!-- Video file -->
-        <replacement jp="動画ファイル" zh-CN="" en-US="Video file"/>
-        <replacement jp="再生位置" zh-CN="" en-US="Playback position"/>
-        <replacement jp="再生速度" zh-CN="" en-US="vPlay"/>
-        <replacement jp="ループ再生" zh-CN="" en-US="Loop playback"/>
-        <replacement jp="アルファチャンネルを読み込む" zh-CN="" en-US="Import alpha channel"/>
+        <replacement jp="動画ファイル" zh-CN="视频文件" en-US="Video file"/>
+        <replacement jp="再生位置" zh-CN="播放位置" en-US="Playback position"/>
+        <replacement jp="再生速度" zh-CN="播放速度" en-US="vPlay"/>
+        <replacement jp="ループ再生" zh-CN="循环播放" en-US="Loop playback"/>
+        <replacement jp="アルファチャンネルを読み込む" zh-CN="读取Alpha通道" en-US="Import alpha channel"/>
 
         <!-- Image file -->
-        <replacement jp="画像ファイル" zh-CN="" en-US="Image file"/>
+        <replacement jp="画像ファイル" zh-CN="图片文件" en-US="Image file"/>
 
         <!-- Audio file -->
-        <replacement jp="音声ファイル" zh-CN="" en-US="Audio file"/>
-        <replacement jp="再生位置" zh-CN="" en-US="Playback position"/>
-        <replacement jp="再生速度" zh-CN="" en-US="vPlay"/>
-        <replacement jp="ループ再生" zh-CN="" en-US="Loop playback"/>
-        <replacement jp="動画ファイルと連携" zh-CN="" en-US="Sync with video files"/>
+        <replacement jp="音声ファイル" zh-CN="音频文件" en-US="Audio file"/>
+        <replacement jp="再生位置" zh-CN="播放位置" en-US="Playback position"/>
+        <replacement jp="再生速度" zh-CN="播放速度" en-US="vPlay"/>
+        <replacement jp="ループ再生" zh-CN="循环播放" en-US="Loop playback"/>
+        <replacement jp="動画ファイルと連携" zh-CN="同步视频文件" en-US="Sync with video files"/>
 
         <!-- Text -->
-        <replacement jp="テキスト" zh-CN="" en-US="Text"/>
-        <replacement jp="サイズ" zh-CN="" en-US="Size"/>
-        <replacement jp="表示速度" zh-CN="" en-US="vDisplay"/>
-        <replacement jp="文字毎に個別オブジェクト" zh-CN="" en-US="1char1obj"/>
+        <replacement jp="テキスト" zh-CN="文本" en-US="Text"/>
+        <replacement jp="サイズ" zh-CN="大小" en-US="Size"/>
+        <replacement jp="表示速度" zh-CN="显示速度" en-US="vDisplay"/>
+        <replacement jp="文字毎に個別オブジェクト" zh-CN="独立每个文字" en-US="1char1obj"/>
         <replacement jp="移動座標上に表示する" zh-CN="" en-US="Show on motion coordinate"/>
-        <replacement jp="自動スクロール" zh-CN="" en-US="Automatic scrolling"/>
+        <replacement jp="自動スクロール" zh-CN="物件长度自动调节" en-US="Automatic scrolling"/>
 
         <!-- Graphic -->
-        <replacement jp="図形" zh-CN="" en-US="Graphic"/>
-        <replacement jp="サイズ" zh-CN="" en-US="Size"/>
-        <replacement jp="縦横比" zh-CN="" en-US="rAspect"/>
-        <replacement jp="ライン幅" zh-CN="" en-US="Line width"/>
+        <replacement jp="図形" zh-CN="图形" en-US="Graphic"/>
+        <replacement jp="サイズ" zh-CN="大小" en-US="Size"/>
+        <replacement jp="縦横比" zh-CN="横纵比" en-US="rAspect"/>
+        <replacement jp="ライン幅" zh-CN="线宽" en-US="Line width"/>
 
         <!-- Frame buffer -->
-        <replacement jp="フレームバッファ" zh-CN="" en-US="Frame buffer"/>
-        <replacement jp="フレームバッファをクリア" zh-CN="" en-US="Clear frame buffer"/>
+        <replacement jp="フレームバッファ" zh-CN="帧缓存" en-US="Frame buffer"/>
+        <replacement jp="フレームバッファをクリア" zh-CN="清除帧缓存" en-US="Clear frame buffer"/>
 
         <!-- Audio waveform display -->
-        <replacement jp="音声波形表示" zh-CN="" en-US="Audio waveform display"/>
-        <replacement jp="横幅" zh-CN="" en-US="Width"/>
-        <replacement jp="高さ" zh-CN="" en-US="Height"/>
-        <replacement jp="音量" zh-CN="" en-US="Volume"/>
-        <replacement jp="再生位置" zh-CN="" en-US="Playback position"/>
-        <replacement jp="編集全体の音声を元にする" zh-CN="" en-US="Restore original sound"/>
+        <replacement jp="音声波形表示" zh-CN="显示音频波形" en-US="Audio waveform display"/>
+        <replacement jp="横幅" zh-CN="宽度" en-US="Width"/>
+        <replacement jp="高さ" zh-CN="高度" en-US="Height"/>
+        <replacement jp="音量" zh-CN="音量" en-US="Volume"/>
+        <replacement jp="再生位置" zh-CN="播放位置" en-US="Playback position"/>
+        <replacement jp="編集全体の音声を元にする" zh-CN="编辑全体原始音频" en-US="Restore original sound"/>
 
         <!-- Scene -->
-        <replacement jp="シーン" zh-CN="" en-US="Scene"/>
-        <replacement jp="再生位置" zh-CN="" en-US="Playback position"/>
-        <replacement jp="再生速度" zh-CN="" en-US="vPlay"/>
-        <replacement jp="ループ再生" zh-CN="" en-US="Loop playback"/>
+        <replacement jp="シーン" zh-CN="预合成" en-US="Scene"/>
+        <replacement jp="再生位置" zh-CN="播放位置" en-US="Playback position"/>
+        <replacement jp="再生速度" zh-CN="播放速度" en-US="vPlay"/>
+        <replacement jp="ループ再生" zh-CN="循环播放" en-US="Loop playback"/>
 
         <!-- Scene (audio) -->
-        <replacement jp="シーン(音声)" zh-CN="" en-US="Scene (audio)"/>
-        <replacement jp="再生位置" zh-CN="" en-US="Playback position"/>
-        <replacement jp="再生速度" zh-CN="" en-US="vPlay"/>
-        <replacement jp="ループ再生" zh-CN="" en-US="Loop playback"/>
-        <replacement jp="シーンと連携" zh-CN="" en-US="Sync with the scene"/>
+        <replacement jp="シーン(音声)" zh-CN="预合成(音频)" en-US="Scene (audio)"/>
+        <replacement jp="再生位置" zh-CN="播放位置" en-US="Playback position"/>
+        <replacement jp="再生速度" zh-CN="播放速度" en-US="vPlay"/>
+        <replacement jp="ループ再生" zh-CN="循环播放" en-US="Loop playback"/>
+        <replacement jp="シーンと連携" zh-CN="同步预合成" en-US="Sync with the scene"/>
 
         <!-- Previous object -->
-        <replacement jp="直前オブジェクト" zh-CN="" en-US="Previous object"/>
+        <replacement jp="直前オブジェクト" zh-CN="之前的物件" en-US="Previous object"/>
 
         <!-- Graphic -->
-        <replacement jp="図形" zh-CN="" en-US="Graphic"/>
-        <replacement jp="サイズ" zh-CN="" en-US="Size"/>
-        <replacement jp="縦横比" zh-CN="" en-US="rAspect"/>
-        <replacement jp="ライン幅" zh-CN="" en-US="Line width"/>
+        <replacement jp="図形" zh-CN="图形" en-US="Graphic"/>
+        <replacement jp="サイズ" zh-CN="大小" en-US="Size"/>
+        <replacement jp="縦横比" zh-CN="横纵比例" en-US="rAspect"/>
+        <replacement jp="ライン幅" zh-CN="线宽" en-US="Line width"/>
 
         <!-- Particle output -->
-        <replacement jp="パーティクル出力" zh-CN="" en-US="Particle output"/>
-        <replacement jp="出力頻度" zh-CN="" en-US="fOutput"/>
-        <replacement jp="出力速度" zh-CN="" en-US="vOutput"/>
-        <replacement jp="加速度" zh-CN="" en-US="dv/dt"/>
-        <replacement jp="出力方向" zh-CN="" en-US="Output>>"/>
-        <replacement jp="拡散角度" zh-CN="" en-US="&lt;Diffuse"/>
-        <replacement jp="透過率" zh-CN="" en-US="Transmittance"/>
-        <replacement jp="透過速度" zh-CN="" en-US="vTransmit"/>
-        <replacement jp="拡大率" zh-CN="" en-US="Zoom%"/>
-        <replacement jp="拡大速度" zh-CN="" en-US="vSpread"/>
-        <replacement jp="回転角" zh-CN="" en-US="&lt;Rotate"/>
-        <replacement jp="回転速度" zh-CN="" en-US="vRotation"/>
-        <replacement jp="重力" zh-CN="" en-US="Gravity"/>
-        <replacement jp="生存時間" zh-CN="" en-US="tSurvival"/>
-        <replacement jp="出力方向の基準を移動方向にする" zh-CN="" en-US="Output direction based on movement direction"/>
-        <replacement jp="移動範囲の座標からランダムに出力" zh-CN="" en-US="Random output from movement range"/>
-        <replacement jp="3Dランダム回転" zh-CN="" en-US="3D random rotation"/>
-        <replacement jp="終了点で全て消えるように調節する" zh-CN="" en-US="Adjusted to fully disappear at end point"/>
+        <replacement jp="パーティクル出力" zh-CN="粒子系统" en-US="Particle output"/>
+        <replacement jp="出力頻度" zh-CN="出生频率" en-US="fOutput"/>
+        <replacement jp="出力速度" zh-CN="发射速度" en-US="vOutput"/>
+        <replacement jp="加速度" zh-CN="加速度" en-US="dv/dt"/>
+        <replacement jp="出力方向" zh-CN="发射方向" en-US="Output>>"/>
+        <replacement jp="拡散角度" zh-CN="发散角度" en-US="&lt;Diffuse"/>
+        <replacement jp="透過率" zh-CN="透明率" en-US="Transmittance"/>
+        <replacement jp="透過速度" zh-CN="透明速度" en-US="vTransmit"/>
+        <replacement jp="拡大率" zh-CN="缩放率" en-US="Zoom%"/>
+        <replacement jp="拡大速度" zh-CN="缩放速度" en-US="vSpread"/>
+        <replacement jp="回転角" zh-CN="旋转度" en-US="&lt;Rotate"/>
+        <replacement jp="回転速度" zh-CN="旋转速度" en-US="vRotation"/>
+        <replacement jp="重力" zh-CN="重力" en-US="Gravity"/>
+        <replacement jp="生存時間" zh-CN="寿命" en-US="tSurvival"/>
+        <replacement jp="出力方向の基準を移動方向にする" zh-CN="输出方向为标准运动方向" en-US="Output direction based on movement direction"/>
+        <replacement jp="移動範囲の座標からランダムに出力" zh-CN="运动范围的坐标中随机输出" en-US="Random output from movement range"/>
+        <replacement jp="3Dランダム回転" zh-CN="3D随机旋转" en-US="3D random rotation"/>
+        <replacement jp="終了点で全て消えるように調節する" zh-CN="调整使其消失在终点" en-US="Adjusted to fully disappear at end point"/>
 
         <!-- Custom object -->
-        <replacement jp="カスタムオブジェクト" zh-CN="" en-US="Custom object"/>
+        <replacement jp="カスタムオブジェクト" zh-CN="自定义物件" en-US="Custom object"/>
 
         <!-- Time control -->
-        <replacement jp="時間制御" zh-CN="" en-US="Time control"/>
-        <replacement jp="位置" zh-CN="" en-US="Position"/>
-        <replacement jp="繰り返し" zh-CN="" en-US="Repeat"/>
-        <replacement jp="コマ落ち" zh-CN="" en-US="Decimation"/>
-        <replacement jp="フレーム番号指定" zh-CN="" en-US="Specified frame number"/>
+        <replacement jp="時間制御" zh-CN="时间控制" en-US="Time control"/>
+        <replacement jp="位置" zh-CN="位置" en-US="Position"/>
+        <replacement jp="繰り返し" zh-CN="重复" en-US="Repeat"/>
+        <replacement jp="コマ落ち" zh-CN="丢帧" en-US="Decimation"/>
+        <replacement jp="フレーム番号指定" zh-CN="自定义帧数" en-US="Specified frame number"/>
 
         <!-- Group control -->
-        <replacement jp="グループ制御" zh-CN="" en-US="Group control"/>
-        <replacement jp="拡大率" zh-CN="" en-US="Zoom%"/>
-        <replacement jp="X軸回転" zh-CN="" en-US="X-Spin"/>
-        <replacement jp="Y軸回転" zh-CN="" en-US="Y-Spin"/>
-        <replacement jp="Z軸回転" zh-CN="" en-US="Z-Spin"/>
-        <replacement jp="上位グループ制御の影響を受ける" zh-CN="" en-US="Affected by the upper group control"/>
-        <replacement jp="同じグループのオブジェクトを対象にする" zh-CN="" en-US="Apply to objects in the same group"/>
+        <replacement jp="グループ制御" zh-CN="组控制" en-US="Group control"/>
+        <replacement jp="拡大率" zh-CN="缩放率" en-US="Zoom%"/>
+        <replacement jp="X軸回転" zh-CN="X轴旋转" en-US="X-Spin"/>
+        <replacement jp="Y軸回転" zh-CN="Y轴旋转" en-US="Y-Spin"/>
+        <replacement jp="Z軸回転" zh-CN="Z轴旋转" en-US="Z-Spin"/>
+        <replacement jp="上位グループ制御の影響を受ける" zh-CN="受上方组控制" en-US="Affected by the upper group control"/>
+        <replacement jp="同じグループのオブジェクトを対象にする" zh-CN="目标物件在同一组中" en-US="Apply to objects in the same group"/>
 
         <!-- Standard drawing -->
-        <replacement jp="標準描画" zh-CN="" en-US="Standard drawing"/>
-        <replacement jp="拡大率" zh-CN="" en-US="Zoom%"/>
-        <replacement jp="透明度" zh-CN="" en-US="Clearness"/>
-        <replacement jp="回転" zh-CN="" en-US="Rotation"/>
+        <replacement jp="標準描画" zh-CN="标准绘制" en-US="Standard drawing"/>
+        <replacement jp="拡大率" zh-CN="缩放率" en-US="Zoom%"/>
+        <replacement jp="透明度" zh-CN="透明度" en-US="Clearness"/>
+        <replacement jp="回転" zh-CN="旋转" en-US="Rotation"/>
 
         <!-- Standard playback -->
-        <replacement jp="標準再生" zh-CN="" en-US="Standard playback"/>
-        <replacement jp="音量" zh-CN="" en-US="Volume"/>
-        <replacement jp="左右" zh-CN="" en-US="Left-Right"/>
+        <replacement jp="標準再生" zh-CN="标准播放" en-US="Standard playback"/>
+        <replacement jp="音量" zh-CN="音量" en-US="Volume"/>
+        <replacement jp="左右" zh-CN="左右" en-US="Left-Right"/>
 
     </index>
 </table>
